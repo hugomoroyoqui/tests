@@ -30,7 +30,7 @@ try {
      
     
     //Routes
-    app.use('/api/brands', require('./routes/brands.routes'));
+    app.use('/api/brands', require('./routes/brands.route'));
     app.use('/api/models', require('./routes/models.routes'));
     app.use('/api/apertures', require('./routes/apertures.routes'));
     app.use('/api/general', require('./routes/general.routes'));

@@ -4,7 +4,7 @@
   "description": "backend services for aplication",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": ""
   },
   "keywords": [],
   "author": "",
